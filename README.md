@@ -17,7 +17,7 @@ The aim is to gradually build a strong foundation in:
 ## 📚 Current Content
 | File/Folder | Description |
 |------------|-------------|
-| `oops/` *(or your file name)* | Notes and examples of basic OOP concepts (Encapsulation, Inheritance, Abstraction, Polymorphism) |
+| `oops.java` | Notes and examples of basic OOP concepts (Encapsulation, Inheritance, Abstraction, Polymorphism) |
 
 More content will be added as the repository grows.
 
@@ -65,7 +65,7 @@ If this repository helps your learning journey:
 
 ## 📬 Contact
 For feedback, discussions, or ideas — feel free to connect!  
-📧 [Mail](pvijai2694@gmail.com) / [LinkedIn](https://www.linkedin.com/in/vijay-patange/)
+📧 pvijai2694@gmail.com / [LinkedIn](https://www.linkedin.com/in/vijay-patange/)
 
 ---
 
