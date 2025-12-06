@@ -42,8 +42,8 @@ This might expand over time based on needs.
 ## 🚀 Roadmap
 | Phase | Description | Status |
 |-------|-------------|--------|
-| Phase 1 | OOP Fundamentals | 🟢 In Progress |
-| Phase 2 | Design Patterns | 🔜 Planned |
+| Phase 1 | OOP Fundamentals | ✔️ Completed |
+| Phase 2 | Design Patterns | 🔄 In Progress |
 | Phase 3 | LLD Case Studies | 🔜 Planned |
 | Phase 4 | Interview Style Questions | 🔜 Planned |
 
@@ -65,7 +65,7 @@ If this repository helps your learning journey:
 
 ## 📬 Contact
 For feedback, discussions, or ideas — feel free to connect!  
-📧 Add your contact / LinkedIn here
+📧 [Mail](pvijai2694@gmail.com) / [LinkedIn](https://www.linkedin.com/in/vijay-patange/)
 
 ---
 
