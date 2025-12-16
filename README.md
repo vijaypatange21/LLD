@@ -18,6 +18,7 @@ The aim is to gradually build a strong foundation in:
 | File/Folder | Description |
 |------------|-------------|
 | `oops.java` | Notes and examples of basic OOP concepts (Encapsulation, Inheritance, Abstraction, Polymorphism) |
+| `Document Editor/` | Applied SOLID principles with visualisation  |
 
 More content will be added as the repository grows.
 
@@ -43,7 +44,7 @@ This might expand over time based on needs.
 | Phase | Description | Status |
 |-------|-------------|--------|
 | Phase 1 | OOP Fundamentals | ✔️ Completed |
-| Phase 2 | Design Patterns | 🔄 In Progress |
+| Phase 2 | Design Patterns | ✔️ Completed |
 | Phase 3 | LLD Case Studies | 🔜 Planned |
 | Phase 4 | Interview Style Questions | 🔜 Planned |
 
